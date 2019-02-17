@@ -1,0 +1,162 @@
+<html lang="en">
+
+<head>
+  <title>Labelling Tool</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="https://demos.jquerymobile.com/1.4.2/js/jquery.js"></script>
+  <link rel="stylesheet" href="https://demos.jquerymobile.com/1.4.2/css/themes/default/jquery.mobile-1.4.2.min.css">  
+
+  <link rel = "stylesheet" type = "text/css" href = "style.css" />
+
+  <script src="canvas.js"></script> 
+  <script src="threshold.js"></script> 
+
+
+</head>
+
+
+<body>
+
+  <div class="container-fluid">
+    <h1 style="background-color:lavenderblush;  text-align: center; " >Image annotator </h1>
+    <p style=" text-align: center; " > Upload your image</p>
+
+  </div>
+
+  <!-- ----------------------------------------------------------------------------------------------------- -->
+  <div class="container-fluid"    >
+
+    <div class="row">
+      <div class="col-sm-12 imagedisplay" >
+
+       Upload the image
+       <input id="imageupload" type="file" onchange="Display(this);">
+       <br>
+     </div>
+
+   </div>
+
+   <!-- ----------------------------------------------------------------------------------------------------- -->
+
+   <div class="row">
+
+    <div class="col-sm-6 imagedisplay" >
+    	<!-- <img src="" class="img-responsive preview" id="Q2" alt=""> -->
+     <canvas  id="Q2"> </canvas>
+
+     <p id="Ground Truth Image"></p>
+   </div>
+
+   <div class="col-sm-6 imagedisplay" >
+     <!-- <img src="" class="img-responsive preview"   alt=""> -->
+     <canvas  id='Q1' > </canvas>
+
+     <p id="Manipulated Image"></p>
+   </div>
+
+
+ </div>
+
+ <!-- ----------------------------------------------------------------------------------------------------- -->
+ <br> <br>
+ <div class="row">
+  <div class="col-sm-6 imagedisplay" >
+   <!-- <img src="" class="img-responsive preview"   alt=""> -->
+   <!-- <img src="" class="img-responsive preview" id="Q3" alt=""> -->
+   <!-- <canvas  id="Q" class="preview" > </canvas> -->
+   <canvas  id="Q3"> </canvas>
+
+   <!-- <canvas  id="Q3" class="preview" > </canvas> -->
+
+
+   <p id="Binary Manipulated Image"></p>
+ </div>
+
+ <div class="col-sm-6 imagedisplay" >
+  <!-- <br><br> -->
+  <div class="slidecontainer">
+
+    <div class="row">
+
+      <div class="col-sm-11" >
+       <input type="range" min="0" max="255" value="0" class="slider red" id="S1"> <br> 
+     </div>
+
+     <div class="col-sm-1" > <p id="V1"> 0 </p> </div>
+   </div>
+
+
+   <div class="row">
+
+    <div class="col-sm-11" >
+      <input type="range" min="0" max="255" value="255" class="slider red" id="S2"> <br> <br> 
+    </div>
+
+    <div class="col-sm-1" id="V2"> 255 </div>
+  </div>
+  <div class="row">
+
+    <div class="col-sm-11" >
+      <input type="range" min="0" max="255" value="0" class="slider blue" id="S3"> <br>
+    </div>
+
+    <div class="col-sm-1" id="V3"> 0 </div>
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-11" >
+      <input type="range" min="0" max="255" value="255" class="slider blue" id="S4"> <br> <br> 
+    </div>
+
+    <div class="col-sm-1" id="V4"> 255 </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-11" >
+      <input type="range" min="0" max="255" value="0" class="slider green" id="S5" > <br>
+    </div>
+
+    <div class="col-sm-1" id="V5"> 0 </div>
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-11" >
+      <input type="range" min="0" max="255" value="255" class="slider green" id="S6"> <br> <br> 
+    </div>
+
+    <div class="col-sm-1" id="V6"> 255 </div>
+  </div>
+
+</div>
+
+</div>
+
+
+
+</div>
+
+<!-- ----------------------------------------------------------------------------------------------------- -->
+
+</div>
+
+</body>
+</html>
+
+
+
+<!-- 
+<html>
+
+<body>
+	<p>This is a paragraph.</p>
+
+
+
+</body>
+</html> -->
