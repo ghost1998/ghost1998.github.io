@@ -1,0 +1,99 @@
+<html lang="en">
+
+<head>
+  <title>Labelling Tool</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script src="https://demos.jquerymobile.com/1.4.2/js/jquery.js"></script>
+  <link rel="stylesheet" href="https://demos.jquerymobile.com/1.4.2/css/themes/default/jquery.mobile-1.4.2.min.css">  
+
+  <link rel = "stylesheet" type = "text/css" href = "labelStyle.css" />
+
+  <script src="canvas.js"></script> 
+  <script src="threshold.js"></script> 
+
+
+</head>
+
+
+<body>
+
+  <div class="container-fluid">
+    <h1 style="background-color:lavender;  text-align: center; " >Image annotator </h1>
+    <br>
+    <!-- <p style=" text-align: center; " > Upload your image</p> -->
+
+  </div>
+
+  <div class="container-fluid">
+  <!-- ----------------------------------------------------------------------------------------------------- -->
+
+    <div class="row">
+      <div class="col-sm-2 imagedisplay" >
+<!--        <input id="imageupload" type="file" style="width: 0.1px; height: 0.1px;" onchange="Display(this); threshold() ;">
+       <br> -->
+
+
+       <label for="imageupload" class="custom-imageupload">
+        <i></i>Upload Image
+      </label>
+      <input id="imageupload" type="file" onchange="Display(this); threshold() ;" />
+
+
+    </div>
+
+
+
+      <div class="col-sm-6" >
+        <!-- <br> -->
+       <input type="range" min="0" max="255" value="0" class="slider red" id="S1"> <br> 
+     </div>
+
+
+
+    <div class="col-sm-1">
+      <button type="button" onclick="toggle();"> Toggle </button>
+    </div>
+
+    <div class="col-sm-3">
+      <button type="button" onclick="alert('Hello world!')"> Download </button>
+    </div>
+
+
+
+
+   </div>
+
+
+<!-- ----------------------------------------------------------------------------------------------------- -->
+    <div class="row">
+      <div class="col-sm-12 imagedisplay" >
+        <br>
+        <canvas  id="Q2" width=1700px height=700px> </canvas>
+        <canvas  id="Q3" width=1700px height=700px> </canvas>
+
+      </div>
+    </div>
+
+<!-- ----------------------------------------------------------------------------------------------------- -->
+
+</div>
+
+</body>
+</html>
+
+
+
+<!-- 
+<html>
+
+<body>
+	<p>This is a paragraph.</p>
+
+
+
+</body>
+</html> -->
