@@ -168,14 +168,15 @@ function customSize(arg)
 
     console.log(main.width)
     var rect = canvas.getBoundingClientRect();
-    xp =  (e.clientX - rect.left) / (rect.right - rect.left) * main.width
-    yp = (e.clientY - rect.top) / (rect.bottom - rect.top) * main.height
+    xp =  (e.clientX - rect.left) / (rect.right - rect.left) * main.width - 15
+    yp = (e.clientY - rect.top) / (rect.bottom - rect.top) * main.height - 15
 
     console.log(xp)
     console.log(yp)
     zoomCtx.fillRect(0,0, zoom.width, zoom.height);
     // zoomCtx.drawImage(main, e.x, e.y, 200, 100, 0,0, 400, 200);
     // zoomCtx.drawImage(main, e.layerX, e.layerY, 200, 100, 0,0, 400, 200);
+    zoomCtx.drawImage(main2, xp, yp, 200, 100, 0,0, 400, 200);
     zoomCtx.drawImage(main, xp, yp, 200, 100, 0,0, 400, 200);
     console.log(zoom.style);
     zoom.style.top = e.pageY + 10 + "px"
@@ -189,6 +190,7 @@ function customSize(arg)
   }
 
   var main = document.getElementById("Q3");
+  var main2 = document.getElementById("Q2");
   var zoom = document.getElementById("zoom");
   var ctx = main.getContext("2d")
   var zoomCtx = zoom.getContext("2d");
@@ -310,4 +312,4 @@ function initDraw(canvas)
 }
 
 
-// initDraw(document.getElementById('Q3'));
+initDraw(document.getElementById('Q3'));
