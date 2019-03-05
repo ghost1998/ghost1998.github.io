@@ -33,12 +33,19 @@ function toggle()
   var canvas2=document.getElementById('Q3');
 
   // alert("Toggle");
-  if(canvas1.style.visibility=='visible'){
-    canvas1.style.visibility='hidden';
-    canvas2.style.visibility='visible';
-  }else{
-    canvas1.style.visibility='visible';
+  if(canvas2.style.visibility=='visible')
+  {
     canvas2.style.visibility='hidden';
+    // canvas2.style.visibility='visible';
+  }
+  else
+  {
+    canvas2.style.visibility='visible';
+    // canvas2.style.visibility='hidden';
   }
 }
+
+
+
+
 

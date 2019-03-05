@@ -36,14 +36,18 @@ function threshold()
       // originalImagedata.data[i+1] = 0;
       // originalImagedata.data[i+2] = 0;
       binaryImageData.data[i] = 255;
-      binaryImageData.data[i+1] = 255;
-      binaryImageData.data[i+2] = 255;
+      binaryImageData.data[i+1] = 0;
+      binaryImageData.data[i+2] = 0;
+      binaryImageData.data[i+3] = 255;
+
+
     }
     else 
     {
       binaryImageData.data[i] = 0;
       binaryImageData.data[i+1] = 0;
       binaryImageData.data[i+2] = 0;
+      binaryImageData.data[i+3] = 0;
     }
   }
 
@@ -120,3 +124,4 @@ window.onload = function()
 
 
 };
+
