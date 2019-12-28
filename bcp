@@ -22,14 +22,10 @@
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
 
-	<link rel="stylesheet" href="css/timeline.css">
-
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155027818-1"></script>
-<script type="text/javascript" src="js/timeline.js"></script>
-
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -37,9 +33,6 @@
 
   gtag('config', 'UA-155027818-1');
 </script>
-
-<script type="text/javascript" src="js/timeline.js"></script>
-
 
 
 
@@ -243,6 +236,28 @@
 		    					<p>Graduated with a JEE-Advanced All India Rank of 478 getting admittions into IIIT Hyderabad CSE and IIT Roorkee CSE </p>
 		    				</div>
 	    				</div>
+	    		<!-- 		<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2014-2015</span>
+		    					<h2>Diploma in Computer</h2>
+		    					<span class="position">Cambridge University</span>
+		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2014-2015</span>
+		    					<h2>Art &amp; Creative Director</h2>
+		    					<span class="position">Cambridge University</span>
+		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    				</div>
+	    				</div> -->
 					  </div>
 
 					  <div id="page-2" class= "page two">
@@ -285,7 +300,194 @@
 		    					</p>
 		    				</div>
 	    				</div>
+	    	<!-- 			<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2014-2015</span>
+		    					<h2>Art &amp; Creative Director</h2>
+		    					<span class="position">Side Tech</span>
+		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2014-2015</span>
+		    					<h2>Wordpress Developer</h2>
+		    					<span class="position">Cambridge University</span>
+		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    				</div>
+	    				</div>
+	    				<div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2017-2018</span>
+		    					<h2>UI/UX Designer</h2>
+		    					<span class="position">Cambridge University</span>
+		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    				</div>
+	    				</div> -->
+					  </div>
 
+
+		<!-- 			  <div id="page-3" class= "page three">
+					  	<h2 class="heading">Skills</h2>
+					  	<div class="row progress-circle mb-5">
+					  		<div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">CSS</h2>
+
+						        <div class="progress mx-auto" data-value='90'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h2 font-weight-bold">90<sup class="small">%</sup></div>
+						          </div>
+						        </div>
+
+						        <div class="row text-center mt-4">
+						          <div class="col-6 border-right">
+						            <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
+						          </div>
+						          <div class="col-6">
+						            <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
+						          </div>
+						        </div>
+						      </div>
+						    </div>
+
+						    <div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">HTML</h2>
+
+						        <div class="progress mx-auto" data-value='80'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h2 font-weight-bold">80<sup class="small">%</sup></div>
+						          </div>
+						        </div>
+
+						        <div class="row text-center mt-4">
+						          <div class="col-6 border-right">
+						            <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
+						          </div>
+						          <div class="col-6">
+						            <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
+						          </div>
+						        </div>
+						      </div>
+						    </div>
+
+						    <div class="col-lg-4 mb-4">
+						      <div class="bg-white rounded-lg shadow p-4">
+						        <h2 class="h5 font-weight-bold text-center mb-4">jQuery</h2>
+
+						        <div class="progress mx-auto" data-value='75'>
+						          <span class="progress-left">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <span class="progress-right">
+                        <span class="progress-bar border-primary"></span>
+						          </span>
+						          <div class="progress-value w-100 h-100 rounded-circle d-flex align-items-center justify-content-center">
+						            <div class="h2 font-weight-bold">75<sup class="small">%</sup></div>
+						          </div>
+						        </div>
+						        <div class="row text-center mt-4">
+						          <div class="col-6 border-right">
+						            <div class="h4 font-weight-bold mb-0">28%</div><span class="small text-gray">Last week</span>
+						          </div>
+						          <div class="col-6">
+						            <div class="h4 font-weight-bold mb-0">60%</div><span class="small text-gray">Last month</span>
+						          </div>
+						        </div>
+						      </div>
+						    </div>
+					  	</div>
+					  	<div class="row">
+					  		<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>Photoshop</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-1" role="progressbar" aria-valuenow="90"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
+										    <span>90%</span>
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>jQuery</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-2" role="progressbar" aria-valuenow="85"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:85%">
+										    <span>85%</span>
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>HTML5</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-3" role="progressbar" aria-valuenow="95"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:95%">
+										    <span>95%</span>
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>CSS3</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-4" role="progressbar" aria-valuenow="90"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:90%">
+										    <span>90%</span>
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>WordPress</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-5" role="progressbar" aria-valuenow="70"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:70%">
+										    <span>70%</span>
+										  	</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-md-6 animate-box">
+									<div class="progress-wrap ftco-animate">
+										<h3>SEO</h3>
+										<div class="progress">
+										 	<div class="progress-bar color-6" role="progressbar" aria-valuenow="80"
+										  	aria-valuemin="0" aria-valuemax="100" style="width:80%">
+										    <span>80%</span>
+										  	</div>
+										</div>
+									</div>
+								</div>
+					  	</div>
+					  </div> -->
 					  <div id="page-4" class= "page four">
 					    <h2 class="heading">Awards</h2>
 
@@ -341,7 +543,17 @@
 		    					<p>Ranked All India 16 and 20 in 2009 and 2010 respectively</p>
 		    				</div>
 	    				</div>
-
+	    				<!-- <div class="resume-wrap d-flex ftco-animate">
+	    					<div class="icon d-flex align-items-center justify-content-center">
+					    		<span class="flaticon-ideas"></span>
+					    	</div>
+					    	<div class="text pl-3">
+		    					<span class="date">2014-2015</span>
+		    					<h2>Art &amp; Creative Director</h2>
+		    					<span class="position">Cambridge University</span>
+		    					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+		    				</div>
+	    				</div> -->
 					  </div>
 					</div>
 			  </div>
@@ -357,6 +569,75 @@
             <p>Work in Progress</p>
           </div>
         </div>
+<!--     		<div class="row">
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-analysis"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Web Design</h3>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-flasks"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Phtography</h3>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-ideas"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Web Developer</h3>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+							</div>
+						</a>
+					</div>
+
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-innovation"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">App Developing</h3>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-ux-design"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Branding</h3>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+							</div>
+						</a>
+					</div>
+					<div class="col-md-4 text-center d-flex ftco-animate">
+						<a href="#" class="services-1 shadow">
+							<span class="icon">
+								<i class="flaticon-idea"></i>
+							</span>
+							<div class="desc">
+								<h3 class="mb-5">Product Strategy</h3>
+								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+							</div>
+						</a>
+					</div>
+				</div> -->
     	</div>
     </section>
  
@@ -367,211 +648,108 @@
           <div class="col-md-12 heading-section text-center ftco-animate">
           	<h1 class="big big-2">Projects</h1>
             <h2 class="mb-4">My Projects</h2>
-			<p>Work in progress</p>
-			
-			<!-- <header>
-				<div class="container text-center">
-				  <h1>Vertical Timeline</h1>
-				  <p>Sava Lazic</p>
-				</div>
-			  </header> -->
-			  <div class="verticalTimeline">
-				<section class="timeline">
-					<div class="container">
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>Smart OJ</h3>
-						  <div class="date">Spring 2016</div>
-						  <p> 
-							  Built a codechef like Online Judge where users can create contests, participate in contests, write and read blogs in web2py.
-							  Built a Problem Recommendation system using Bayesian Statistics and Kalman filters.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>Wikipedia search engine</h3>
-						  <div class="date">Summer 2016</div>
-						  <p>
-							Built a search engine to search with Natural Language text using double indexing and inverted indices.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-						  
-					 
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>News Spot </h3>
-						  <div class="date">Monsoon 2016</div>
-						  <p>
-							Developed a news portal for s startup which collects the data the users might be interested in.
-							Built a Recommendation system using Collaborative Filtering and Sentiment Analysis. 
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>Operating Systems</h3>
-						  <div class="date">Monsoon 2016</div>
-						  <p>
-							Built a mini Linux shell in C with the standard command line features, commands, redirection and  pipe-lining.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>AI Bot</h3>
-						  <div class="date">Spring 2017</div>
-						  <p>
-							Made a bot that plays a modified version of Ultimate Tic-Tac-Toe using alpha-beta pruning, iterative deepening
-							and custom heuristics.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>P2P File Sharing
-							App</h3>
-						  <div class="date">Spring 2017</div>
-						  <p>
-							Developed an application in python that enables data/file transfer (over UDP and TCP) and automatic synchronization of files in a shared folder.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>Proxy Server</h3>
-						  <div class="date">Spring 2017</div>
-						  <p>
-							Implemented a Proxy Server with HTTP and HTTPS protocols. Implemented ACL and caching
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-
-
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>Visual servoing</h3>
-						  <div class="date">Monsoon 2017</div>
-						  <p>
-							Worked on Deep Learning and  Computer Vision methods.
-							Made a framework for Visual Servoing in Matlab, ROS and Gazebo.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>Semantic Scene Understanding</h3>
-						  <div class="date">Spring 2018</div>
-						  <p>
-							Working on View Generation, Scene understanding and recognition using Deep learning for robot motion in warehouse environments.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>Rolling Shutter <br/> correction</h3>
-						  <div class="date">Spring 2018</div>
-						  <p>
-							Implemented Deep flow architectures to correct rolling shutter effects in urban environments. Used Row wise and Column wise kernels to capture representation of the trajectory of the camera.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-
-					  <div class="timeline-item">
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content js--fadeInLeft">
-						  <h3>Distributed P2P <br/> File System</h3>
-						  <div class="date">Spring 2019</div>
-						  <p>
-							Built a Distributed P2P File system using Chord protocol. Implemented node failures, node joins, data replication and file chunking. <br/>
-							Supports more than 1000 nodes on multiple machines concurrently.
-						  </p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-					  </div> 
-
-
-
-
-
-
-
-
-					  <!-- <div class="timeline-item">
-				  
-						<div class="timeline-img"></div>
-				  
-						<div class="timeline-content timeline-card js--fadeInRight">
-						  <div class="timeline-img-header">
-							<h2>Card Title</h2>
-						  </div>
-						  <div class="date">25 MAY 2016</div>
-						  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ratione omnis alias cupiditate saepe atque totam aperiam sed nulla voluptatem recusandae dolor, nostrum excepturi amet in dolores. Alias, ullam.</p>
-						  <a class="bnt-more" href="javascript:void(0)">More</a>
-						</div>
-				  
-					  </div>    -->
-				  
-				  
-				  
-					</div>
-				  </section>
-	
-			  </div>
-			  
-
-			  
+            <p>Work in progress</p>
           </div>
         </div>
+<!--     		<div class="row no-gutters">
+    			<div class="col-md-4">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-1.jpg);">
+    					<div class="overlay"></div>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+  				<div class="col-md-4">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-2.jpg);">
+    					<div class="overlay"></div>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+  				</div>
+
+    			<div class="col-md-4">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-3.jpg);">
+    					<div class="overlay"></div>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+    			</div>
+    			<div class="col-md-4">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-4.jpg);">
+    					<div class="overlay"></div>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+    			</div>
+    			<div class="col-md-4">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-5.jpg);">
+    					<div class="overlay"></div>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+    			</div>
+    			<div class="col-md-4">
+    				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/work-6.jpg);">
+    					<div class="overlay"></div>
+	    				<div class="text text-center p-4">
+	    					<h3><a href="#">Branding &amp; Illustration Design</a></h3>
+	    					<span>Web Design</span>
+	    				</div>
+    				</div>
+    			</div>
+    		</div> -->
     	</div>
     </section>
+
+<!--     <section class="ftco-section ftco-no-pt ftco-no-pb ftco-counter img" id="section-counter">
+    	<div class="container-fluid px-md-5">
+				<div class="row d-md-flex align-items-center">
+          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+            <div class="block-18 shadow">
+              <div class="text">
+                <strong class="number" data-number="100">0</strong>
+                <span>Awards</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+            <div class="block-18 shadow">
+              <div class="text">
+                <strong class="number" data-number="1200">0</strong>
+                <span>Complete Projects</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+            <div class="block-18 shadow">
+              <div class="text">
+                <strong class="number" data-number="1200">0</strong>
+                <span>Happy Customers</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+            <div class="block-18 shadow">
+              <div class="text">
+                <strong class="number" data-number="500">0</strong>
+                <span>Cups of coffee</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
+
 
     <section class="ftco-section" id="blog-section">
       <div class="container">
@@ -584,9 +762,74 @@
         </div>
 
 
+<!--         <div class="row d-flex">
+          <div class="col-md-4 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <a href="single.html" class="block-20" style="background-image: url('images/image_1.jpg');">
+              </a>
+              <div class="text mt-3 float-right d-block">
+                <h3 class="heading"><a href="single.html">Why Lead Generation is Key for Business Growth</a></h3>
+                <div class="d-flex align-items-center mb-3 meta">
+	                <p class="mb-0">
+	                	<span class="mr-2">Sept. 12, 2019</span>
+	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+	                </p>
+                </div>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <a href="single.html" class="block-20" style="background-image: url('images/image_2.jpg');">
+              </a>
+              <div class="text mt-3 float-right d-block">
+                <h3 class="heading"><a href="single.html">Why Lead Generation is Key for Business Growth</a></h3>
+                <div class="d-flex align-items-center mb-3 meta">
+	                <p class="mb-0">
+	                	<span class="mr-2">Sept. 12, 2019</span>
+	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+	                </p>
+                </div>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 d-flex ftco-animate">
+          	<div class="blog-entry">
+              <a href="single.html" class="block-20" style="background-image: url('images/image_3.jpg');">
+              </a>
+              <div class="text mt-3 float-right d-block">
+                <h3 class="heading"><a href="single.html">Why Lead Generation is Key for Business Growth</a></h3>
+                <div class="d-flex align-items-center mb-3 meta">
+	                <p class="mb-0">
+	                	<span class="mr-2">Sept. 12, 2019</span>
+	                	<a href="#" class="mr-2">Admin</a>
+	                	<a href="#" class="meta-chat"><span class="icon-chat"></span> 3</a>
+	                </p>
+                </div>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+              </div>
+            </div>
+          </div>
+        </div> -->
       </div>
     </section>
 
+ <!--    <section class="ftco-section ftco-hireme img" style="background-image: url(images/bg_1.jpg)">
+    	<div class="overlay"></div>
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-7 ftco-animate text-center">
+						<h2>I'm <span>Available</span> for freelancing</h2>
+						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+						<p class="mb-0"><a href="#" class="btn btn-primary py-3 px-5">Hire me</a></p>
+					</div>
+				</div>
+			</div>
+		</section> -->
 
     <section class="ftco-section contact-section ftco-no-pb" id="contact-section">
       <div class="container">
