@@ -47,6 +47,10 @@ a, u {
 
 }
 
+.about
+{
+    font-size: 2vw;
+}
 .rolelist
 {
     /* background-color: red; */
