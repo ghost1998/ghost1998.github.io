@@ -1,0 +1,123 @@
+html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+body{
+    background-color: #f2f2f2;
+}
+a, u {
+    text-decoration: none;
+}
+
+.navbarcontainer
+{
+    color: red;;
+    background-color: #fff;
+    height: 4.5vw;;
+}
+
+.navbar
+{
+    padding: 1vw;
+    font-size: 1.65vw;
+    color: teal;
+    padding-left: 3vw;
+    padding-top: 1.25vw;;
+}
+
+.mottocontainer
+{
+    height: 30vw;
+    background-color: #677b8c;
+
+}
+
+
+.motto
+{
+    color: whitesmoke;
+    font-size: 3vw;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace	;
+    padding : 5vw;
+
+}
+
+.rolelist
+{
+    /* background-color: red; */
+    padding: 5vw;
+    height: 30vw;
+
+}
+
+.role
+{
+    /* min-height: 100px; */
+    background-color: white;
+    /* margin: 5vw; */
+    /* margin-top: 5vw;; */
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, .1);
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+    padding: 1vw;
+    font-size: 27px;
+    color : #38444f;
+    margin-bottom: 5vw;
+
+}
+
+.roledescription
+{
+    margin-top : 15px;
+    font-size: 17px;
+    color : #707880;
+    ;
+}
+.heading
+{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+
+._8seg {
+    border: .5px solid #dee5f5;
+    box-sizing: border-box;
+    height: 1px;
+    margin: 14px auto;
+    width: 100%;
+    margin-bottom: 5px;;
+}
+
+
+._8sem {
+    border: .5px solid #dee5f5;
+    box-sizing: border-box;
+    margin: 0 10px;
+    width: 1px;
+
+}
+
+.roleinfo
+{
+    color : #8e95a1;
+    font-size: 1vw;
+    padding-right: 10px;
+    /* border-right: 1px solid #b9c0cc; */
+    padding-left: 12px;
+}
+
+.vert
+{
+
+    border-right: 1px solid #b9c0cc;
+    font-size: 1.3vw;
+
+}
