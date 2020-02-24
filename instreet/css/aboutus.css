@@ -11,7 +11,10 @@ body
     background-color: #f2f2f2;
 }
 
-
+.uniqueheaders
+{
+    font-size: 2.3vw;
+}
 .about
 {
     background-color: white;
@@ -72,4 +75,29 @@ a, u {
     font-family: "Courier New", Courier, monospace	;
     padding : 5vw;
 
+}
+
+.foundingimage
+{
+    float:left;
+    width:13vw;
+    height:13vw;
+    margin-right:15px;
+    margin-left:15px;
+    margin-top: 30px;
+}
+
+.foundingimage2 
+{
+    float:left;
+    width:13vw;
+    height:13vw;
+    margin-right:15px;
+    margin-left:15px;
+    /* margin-top: 30px; */
+}
+
+.companyname
+{
+    height:6vw;
 }
